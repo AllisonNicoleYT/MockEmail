@@ -1,4 +1,4 @@
-# **MockGmail**
+# **MockEmail**
 A web application that allows you to view emails and send/delete emails using ReactJS.
 
 ## ***Table of Contents***
