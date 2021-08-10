@@ -1,0 +1,25 @@
+.header__user {
+    align-items: center;
+    border-radius: 12px;
+
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);  
+    background-color: #aaaaaa;
+
+    padding: 8px;
+
+    /*display: flex;
+    justify-content: space-between;*/
+  }
+
+  .header__email {
+    font-size: 12pt;
+    font-weight: bold;
+
+    color: white;
+    background-color: #2a297c;
+
+    border: 1px solid white;
+    display: inline;
+
+    padding: 8px;
+  }
