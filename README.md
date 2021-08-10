@@ -1,5 +1,5 @@
 # **MockGmail**
-A web application that is a copy of gmail.com using ReactJS.
+A web application that allows you to view emails and send/delete emails using ReactJS.
 
 ## ***Table of Contents***
   1. Getting Started with React
@@ -14,9 +14,15 @@ A web application that is a copy of gmail.com using ReactJS.
   To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Introduction
-  This is an application where we re-create Google's email website: Gmail.com. We planned on using ReactJS, which includes HTML, CSS, and JavaScript.
+  This is an application where we re-create an email website, like Gmail.com. Instead, we are designing it to our liking.
+  We planned on using ReactJS, which includes HTML, CSS, and JavaScript.
 
 ### Features
+  1. Mail folder navigation
+  2. In-folder mail message navigation
+  3. Mail message view
+  4. Sign-in/ Sign-out feature
+  5. Focus w Desktop- later change to detect mobile
 
 #### Authors
   Allison Spitzenberger
