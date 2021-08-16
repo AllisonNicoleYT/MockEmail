@@ -26,6 +26,7 @@ A web application that allows you to view emails and send/delete emails using Re
 
 #### Authors
   Allison Spitzenberger
+  Michael Popp
 
 #### Format ReadME
   Click [here](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md) to learn about formating a ReadME document.
