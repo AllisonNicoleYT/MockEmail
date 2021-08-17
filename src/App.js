@@ -1,14 +1,16 @@
 //import './App.css';
 import React, {Fragment} from "react";
-import { BrowserRouter, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './Components/pages/Home';
 //created default values
 const App = () => {
 
   return (
-    <BrowserRouter>
-    <Route exact path ='/' component = {Home}/>
-    </BrowserRouter>
+    <Router>
+      <Switch>
+        <Route  path ='/' exact component = {Home}/>
+      </Switch>
+    </Router>
   )}
 
 export default App;
