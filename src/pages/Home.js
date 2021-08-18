@@ -1,10 +1,10 @@
-import DummyEmailList from "../Components/Inbox/DummyEmailList";
+import EmailList from "../Components/Inbox/EmailList";
 import "../App.css";
 
 function Home() {
   return (
     <div className="home">
-      <DummyEmailList />
+      <EmailList />
     </div>
   );
 }
