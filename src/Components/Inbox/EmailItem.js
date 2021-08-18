@@ -1,7 +1,7 @@
 import React from "react";
 
-function InboxList() {
+function EmailItem() {
   return <div></div>;
 }
 
-export default InboxList;
+export default EmailItem;
